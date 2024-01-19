@@ -1,4 +1,4 @@
-# A simple script to support retail inventory counting applications.
+# A simple Python script to support retail inventory counting applications.
 This script converts the shrunken UPC-E (8 digit) barcodes to the expanded UPC-A (11 digits with check digit removed) barcodes.
 
 ## Input
