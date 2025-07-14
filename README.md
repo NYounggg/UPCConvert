@@ -4,7 +4,7 @@ This script converts the shrunken UPC-E (8 digit) barcodes to the expanded UPC-A
 ## Input
 Input file should be a .csv with headers "UPC-E" and "Quantity".  When running the program, a Windows Explorer instance will open.  Select your input .csv file here.
 
-Example of input data below:
+Example syntax of input data below:
 
 ![csv](https://github.com/NYounggg/UPCConvert/assets/71022019/2cc746e8-1f12-48d7-9b74-514a3d8ee1f9)
 
